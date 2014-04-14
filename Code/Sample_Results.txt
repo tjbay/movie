@@ -1,0 +1,23 @@
+Using features: ['budget', 'year', 'month', 'RT_aud_score', 'RT_crit_score', 'RT_runtime', 'Metascore', 'imdbRating', 'imdbVotes']
+With 3 Folds, the average error is 46.74 Million dollars
+With 5 Folds, the average error is 46.79 Million dollars
+With 7 Folds, the average error is 46.79 Million dollars
+With 10 Folds, the average error is 46.35 Million dollars
+With 15 Folds, the average error is 46.32 Million dollars
+With 25 Folds, the average error is 46.04 Million dollars
+With 50 Folds, the average error is 45.2 Million dollars
+With 100 Folds, the average error is 44.06 Million dollars
+With 150 Folds, the average error is 42.96 Million dollars
+With 250 Folds, the average error is 41.73 Million dollars
+
+Using features: ['budget', 'year', 'month', 'RT_aud_score', 'RT_crit_score', 'RT_runtime', 'Metascore', 'imdbRating', 'imdbVotes', 'mpaa_kid', 'mpaa_adult', 'Holiday', 'DayOfWeek', 'starpower', 'dirpower', 'Drama', 'Comedy', 'Action', 'Adventure', 'Crime', 'Thriller', 'Romance', 'Fantasy', 'Sci-Fi', 'Mystery', 'Horror', 'Family', 'Biography', 'Animation', 'Music', 'History', 'Sport', 'War', 'Documentary', 'Musical', 'Western']
+With 3 Folds, the average error is 46.01 Million dollars
+With 5 Folds, the average error is 44.89 Million dollars
+With 7 Folds, the average error is 45.41 Million dollars
+With 10 Folds, the average error is 45.06 Million dollars
+With 15 Folds, the average error is 44.67 Million dollars
+With 25 Folds, the average error is 44.69 Million dollars
+With 50 Folds, the average error is 43.5 Million dollars
+With 100 Folds, the average error is 41.97 Million dollars
+With 150 Folds, the average error is 40.9 Million dollars
+With 250 Folds, the average error is 39.11 Million dollars
